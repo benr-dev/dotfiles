@@ -9,7 +9,7 @@ sudo apt install git zsh curl
 
 - Select the zsh
 ```
-chsh /bin/zsh
+chsh -s /bin/zsh
 exit
 <log back in>
 ```
@@ -18,5 +18,5 @@ exit
 ```
 git clone https://github.com/benr-dev/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
-script/bootstrap
+. script/bootstrap
 ```
