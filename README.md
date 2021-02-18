@@ -4,7 +4,7 @@ Bootstrap for new linux machines.
 
 - Install git, zsh and curl
 ```
-sudo apt install git zsh curl
+sudo apt install git zsh curl bc
 ```
 
 - Select the zsh
