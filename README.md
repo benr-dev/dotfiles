@@ -18,5 +18,5 @@ exit
 ```
 git clone https://github.com/benr-dev/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
-scripts/bootstrap
+script/bootstrap
 ```
